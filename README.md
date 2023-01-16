@@ -92,6 +92,17 @@ The aim of this site is to provide information about the advertised company, inc
 
 ### Requirements
 
+* Maintain a consistent, eye-catching, and efficient site layout for users to understand and interpret.
+
+* Appropriate headings are used correctly to provide meaning for the user.
+
+* The information is simple to understand and engaging to read.
+
+* The site is designed to maintain the user's interest throughout the page.
+
+* The site is to be viewed on various device screens.
+
+
 ### Expectations
 
 ## Website Design Choices
