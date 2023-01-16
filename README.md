@@ -82,6 +82,14 @@ The aim of this site is to provide information about the advertised company, inc
 
 ### Site Owner Goals
 
+* Advertise popular tours.
+
+* Attract users of different age groups. 
+
+* Make sure that suitable activity information is included for families to entertain their children.
+
+* Improve site accessibility for users
+
 ### Requirements
 
 ### Expectations
