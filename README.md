@@ -44,6 +44,23 @@ The aim of this site is to provide information about the advertised company, inc
 
 ### User Goals
 
+1) Aesthetically appealing images and colour
+
+2) Accessibility features are easily identified, including alt text
+
+3) Able to navigate the page with ease
+
+4) Accurate, reliable, and easy-to-read information is provided, and sufficient information is added to relevant sections.
+
+5) Can find nearby and popular locations on the static map provided
+
+6) Can navigate and use the contact form efficiently
+
+7) Layout is structured and user-friendly
+
+8) Sections make use of white space to maintain interest and engagement
+
+
 ### User Stories
 
 ### Site Owner Goals
