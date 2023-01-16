@@ -105,6 +105,22 @@ The aim of this site is to provide information about the advertised company, inc
 
 ### Expectations
 
+* I expect the web page to load quickly and smoothly.
+
+* I expect navigation links to navigate to the relevant sections.
+
+* I expect all content to be easily accessible and to be clear, accurate, and easy to follow.
+
+* I expect the contact form to show feedback if it was filled out correctly and provide messages if it wasn't filled out correctly.
+
+* I expect to locate counties within the static map.
+
+* I expect the site to be consistent throughout so that I can understand the information provided.
+
+* I expect to gain access to the site across multiple screen sizes, and it contains user-friendly features.
+
+* I expect to be intrigued throughout the page.
+
 ## Website Design Choices
 
 ### Colours
