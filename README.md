@@ -2,6 +2,10 @@
 
 ## Project Goals & Target Audience
 
+Welcome to Travel Ireland. Travel Ireland provides a guide for anyone over 18 who is interested in travelling to Ireland with either friends, family, or a break by yourself to capture photos for memories!
+
+The aim of this site is to provide information about the advertised company, including information about popular tours with nearby transportation, popular restaurants and fast food takeaways, and accommodations that are located around the popular tours. A static map will also be implemented into the web page to allow users to view places they may be interested in visiting on arrival. A contact form will also be added into the design of the website to allow users to contact us directly.
+
 # Project Contents
 
  * [UX] (#ux "UX")
