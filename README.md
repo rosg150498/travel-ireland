@@ -73,7 +73,7 @@ The aim of this site is to provide information about the advertised company, inc
 
 5) As a user, I want to learn about nearby restaurants based on the tour I've chosen.
 
-6) As a user, I want to acquire information on accommodations suitable for my tour.
+6) As a user, I want to acquire information on accommodation suitable for my tour.
 
 7) As a user, I'd like to see nearby tour locations on the static map.
 
