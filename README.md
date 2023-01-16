@@ -63,6 +63,23 @@ The aim of this site is to provide information about the advertised company, inc
 
 ### User Stories
 
+1) As a user, I want to know what the travel guide website offers and how I can benefit from it.
+
+2) As a user, I want to be able to navigate through the webpage easily.
+
+3) As a user, I want to be able to quickly access popular packages. 
+
+4) As a user, I want to be able to plan ahead and get information about travel based on the tour I choose.     
+
+5) As a user, I want to learn about nearby restaurants based on the tour I've chosen.
+
+6) As a user, I want to acquire information on accommodations suitable for my tour.
+
+7) As a user, I'd like to see nearby tour locations on the static map.
+
+8) As a user, I want the site to be user-friendly and for the itineraries and routes to be clearly defined.
+
+
 ### Site Owner Goals
 
 ### Requirements
