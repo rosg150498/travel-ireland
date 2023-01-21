@@ -125,9 +125,15 @@ The aim of this site is to provide information about the advertised company, inc
 
 ### Colours
 
+For the website's appearance I will be employing a colour palette that I developed with some assistance from the website "www.coolors.co." When deciding on the colour scheme for the travel tour website, I considered how each choice would affect the the over feel, impression and presentation of the site. So, I went with a set of contrasting hues that thought would convey my message clearly to my target audience. So, I have decided to go with a dark green shade colour for the navigation bar, background for sections content and footer (#01311A), white colour for the navigation links and main text of the web page (#FFFFFF) to maintain a consistent theme. When a user hover over the navigation links and sections of the page the dark green colour (#01311A) will change to #FF7900. The contact form will have a background colour that will contrast with the navigation bar and footer so I have chosen with a slightly lighter shade of this shade (#015228)
+
 ### Fonts
 
+In order to pick a typeface that I believe would be appropriate for the website, I experimented with a variety of fonts that are available on the Google Fonts website. I have decided to use the sans-serif typeface 'Open Sans' for the primary body of the text because of its clean, friendly, and legible features. It is also a dyslexic friendly font. These properties make it possible for users/visitors to readily intrpret content and skim over different regions of the website without difficult. As it constrasts effectively and prevents excessive usage of the font type, I have decided to utilise the Lato font family for the header, navigation, and footer.
+
 ### Icons
+
+When designing my travel website, I decided to use icons from the font awesome website, which can be found at (https://fontawesome.com/). I want to present symbolic messages so I will use symbols such as a bus icon to represent Transporation, others will be utilised to provide visuals for relevant sections of the webpage. I have decided to add appropriate icons to each section of the page as I want to have a theme that is consistent throughout.
 
 ### Logo
 
