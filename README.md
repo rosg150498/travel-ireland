@@ -137,7 +137,12 @@ When designing my travel website, I decided to use icons from the font awesome w
 
 ### Logo
 
-### Media Queries / Responsive Design Wireframing
+### Media Queries / Responsive Design Wireframing 
+
+While working on my single-page website, I utilised Figma to create wireframe ideas.
+First I made the design layout mobile-friendly, and then I scaled it up for use on desktops and tablets.
+In my opinion, a single-page design is all that's needed to hook readers and get them to get information quickly and easily using the navigation bar, page scrolling, and a "return to top" button.
+This new function is part of my quest for a user-friendly interface. 
 
 #### Desktop Wireframing
 
