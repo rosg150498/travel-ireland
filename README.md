@@ -154,6 +154,10 @@ When designing my travel website, I decided to use icons from the font awesome w
 ![travel-ireland-768px-min-width- wireframing](https://user-images.githubusercontent.com/114010857/213942321-6a88c92d-5fb1-43d2-8d1b-3f9c51a9926a.png)
 
 
+#### 992px-min-width-wireframing
+
+![travel-ireland-992px-min-width-wireframing](https://user-images.githubusercontent.com/114010857/213942839-59e8844a-5723-42cc-afb3-91078bd4cf01.png)
+
 
 ## Project Features
 
