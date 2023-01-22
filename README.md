@@ -137,7 +137,12 @@ When designing my travel website, I decided to use icons from the font awesome w
 
 ### Logo
 
-### Media Queries / Responsive Design
+### Media Queries / Responsive Design Wireframing
+
+#### 548px-min-width-wireframing
+
+![travel-ireland-548px-min-width-wireframing](https://user-images.githubusercontent.com/114010857/213941354-557cb944-93ce-4a40-a67c-0e4b2686fae7.png)
+
 
 ## Project Features
 
