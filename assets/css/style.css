@@ -30,6 +30,15 @@ body{
     letter-spacing: 1px;
     color: #FFFFFF;
     float: left;
+    margin: 4px 0 45px 20px;
+}
+
+
+i{
+    float: left;
+    font-size: 45px;
+    color: #FFFFFF;
+    margin: 16px 0 20px 80px;
 }
 
 
