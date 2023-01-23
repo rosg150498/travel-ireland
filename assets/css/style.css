@@ -9,3 +9,22 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+
+.navigation-bar{
+    background-color: #01311a;
+}
+
+
+#travel-ireland-logo-text{
+    font-family: 'Lato', sans-serif;
+    text-transform: lowercase;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+}
+
+
+h1{
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+}
