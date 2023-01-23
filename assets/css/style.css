@@ -11,6 +11,10 @@ body{
 }
 
 
+
+/* navigation bar, logo and navigation links */
+
+
 .navigation-bar{
     background-color: #01311a;
     display: flex;
