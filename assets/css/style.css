@@ -73,3 +73,19 @@ h1{
     font-family: 'Lato', sans-serif;
     text-transform: uppercase;
 }
+
+
+/* travel ireland home image */
+
+#travel-ireland-home-section{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+.travel-ireland-home-image{
+    height: 800px;
+    width: 100%;
+    background: url(../images/travel-ireland-home-image-landscape.jpg) no-repeat center center;
+}
