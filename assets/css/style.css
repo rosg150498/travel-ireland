@@ -91,10 +91,12 @@ h1{
 }
 
 
+/* travel ireland home welcoming text */
+
 #welcoming-text{
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 35px;
     color: #FFFFFF;
     text-align: center;
     top: 120px;
@@ -105,4 +107,21 @@ h1{
     height: 80px;
     width: 100%;
     background-color: #015228;
+}
+
+
+/* travel ireland about us section */
+
+#travel-ireland-about-us-section{
+    height: 300px;
+    width: 50%;
+    background-color: #015228;
+    margin: 15px 0 0 380px;
+    text-align:center;
+}
+
+
+
+#about-us-text{
+    color: #FFFFFF;
 }
