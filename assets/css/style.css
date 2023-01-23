@@ -78,14 +78,31 @@ h1{
 /* travel ireland home image */
 
 #travel-ireland-home-section{
-    height: 600px;
+    height: 1000px;
     width: 100%;
     overflow: hidden;
 }
 
 
 .travel-ireland-home-image{
-    height: 800px;
+    height: 780px;
     width: 100%;
     background: url(../images/travel-ireland-home-image-landscape.jpg) no-repeat center center;
+}
+
+
+#welcoming-text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    top: 120px;
+}
+
+
+.welcoming-text-bg{
+    height: 80px;
+    width: 100%;
+    background-color: #01311a;
 }
