@@ -13,6 +13,10 @@ body{
 
 .navigation-bar{
     background-color: #01311a;
+    display: flex;
+    justify-content: space-between;
+    height: 9vh;
+    width: 100%;
 }
 
 
@@ -21,6 +25,34 @@ body{
     text-transform: lowercase;
     letter-spacing: 1px;
     color: #FFFFFF;
+    float: left;
+}
+
+
+#travel-ireland-nav-links, #travel-ireland-logo-text{
+    line-height: 75px;
+}
+
+
+#travel-ireland-nav-links li{
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+    text-transform: uppercase;
+    margin: 4px 20px 15px 10px;
+}
+
+
+#travel-ireland-nav-links li a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+#travel-ireland-nav-links li a:hover{
+    color: #FF7900;
 }
 
 
