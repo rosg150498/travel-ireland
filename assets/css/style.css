@@ -121,7 +121,13 @@ h1{
 }
 
 
-
 #about-us-text{
     color: #FFFFFF;
+}
+
+
+.about-us{
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    margin: 10px 20px 10px 10px;
 }
