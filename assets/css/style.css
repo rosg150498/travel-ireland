@@ -137,7 +137,7 @@ h1{
 
 hr{
     border-top: 4px solid #FF7900;
-    margin: 1em 0;
+    margin-top: 20px;
     padding: 0;
     width: 100%;
 }
@@ -149,4 +149,37 @@ hr{
     font-size: 20px;
     margin: 2px 20px 10px 10px;
     float: left;
+}
+
+
+/* travel ireland tour section */
+
+#travel-ireland-tours-section {
+    height: 360px;
+    width: 65%;
+    background-color: #015228;
+    margin: 100px 0 0 290px;
+    text-align: center;
+    border-radius: 35px;
+}
+
+
+#tours-icon{
+    margin: 10px 40px 2px 300px;
+}
+
+
+#tours-heading-text{
+    color: #FFFFFF;
+    font-size: 30px;
+    margin: 15px 5px 1px 0;
+    float: left;
+}
+
+
+#tours{
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    margin: 2px 20px 10px 10px;
 }
