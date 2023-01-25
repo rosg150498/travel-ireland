@@ -24,7 +24,7 @@ body{
 }
 
 
-#travel-ireland-logo-text{
+#logo-text{
     font-family: 'Lato', sans-serif;
     text-transform: lowercase;
     letter-spacing: 1px;
@@ -42,12 +42,12 @@ i{
 }
 
 
-#travel-ireland-nav-links, #travel-ireland-logo-text{
+#tnav-links, #logo-text{
     line-height: 75px;
 }
 
 
-#travel-ireland-nav-links li{
+#nav-links li{
     float: left;
     display: flex;
     justify-content: flex-start;
@@ -58,13 +58,13 @@ i{
 }
 
 
-#travel-ireland-nav-links li a{
+#nav-links li a{
     color: #FFFFFF;
     text-decoration: none;
 }
 
 
-#travel-ireland-nav-links li a:hover{
+#nav-links li a:hover{
     color: #FF7900;
 }
 
@@ -77,14 +77,14 @@ h1{
 
 /* travel ireland home image */
 
-#travel-ireland-home-section{
+#thome-section{
     height: 1000px;
     width: 100%;
     overflow: hidden;
 }
 
 
-.travel-ireland-home-image{
+.home-image{
     height: 780px;
     width: 100%;
     background: url(../images/travel-ireland-home-image-landscape.jpg) no-repeat center center;
@@ -112,7 +112,7 @@ h1{
 
 /* travel ireland about us section */
 
-#travel-ireland-about-us-section{
+#about-us-section{
     height: 360px;
     width: 65%;
     background-color: #015228;
@@ -154,7 +154,7 @@ hr{
 
 /* travel ireland tour section */
 
-#travel-ireland-tours-section {
+#tours-section {
     height: 360px;
     width: 65%;
     background-color: #015228;
