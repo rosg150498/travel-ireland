@@ -185,7 +185,7 @@ hr{
 }
 
 
-/* travel ireland popular tours section */
+/* popular tours section */
 
 
 #tours-section{
@@ -194,10 +194,88 @@ hr{
 
 
 #popular-tours{
+    display: grid;
 
+    /* create 3 columns */
+    grid-template-columns: repeat(3, 1fr);
+
+    /*spacing */
+    gap: 1rem;
+    
 }
 
 
 .selected-tour{
-    
+    height: 60rem;
+}
+
+
+/* transport section */
+
+
+#tour-transport{
+    display: grid;
+
+    /* create 3 columns */
+    grid-template-columns: repeat(3, 1fr);
+
+    /*spacing */
+    gap: 1rem;
+
+     /* create a margin */
+     margin: 100rem 2rem 4rem 4.5rem;
+
+     /* set background and text colour */
+     background-color: #015228;
+     color: #FFFFFF;
+}
+
+
+
+/* restauarants section */
+
+
+#tours-restaurant{
+    display: grid;
+
+    /* create 3 columns */
+    grid-template-columns: repeat(3, 1fr);
+
+    /*spacing */
+    gap: 1rem;
+
+     /* create a margin */
+     margin: 5rem 2rem 4rem 4.5rem;
+
+     /* set background and text colour */
+     background-color: #015228;
+     color: #FFFFFF;
+}
+
+
+/* accommodation section */
+
+
+h3{
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+
+#tours-accomodation{
+    display: grid;
+
+    /* create 3 columns */
+    grid-template-columns: repeat(3, 1fr);
+
+    /*spacing */
+    gap: 1rem;
+
+    /* create a margin */
+    margin: 5rem 2rem 4rem 4.5rem;
+
+    /* set background and text colour */
+    background-color: #015228;
+    color: #FFFFFF;
 }
