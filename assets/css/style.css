@@ -372,10 +372,15 @@ p{
 /* accommodation section */
 
 
-h3{
+#accommodation{
     font-family: 'Lato', sans-serif;
-    font-size: 24px;
+    color: #FFFFFF;
+    background-color: #015228;
+    font-size: 2.5rem;
     text-transform: uppercase;
+    margin: 15rem 2rem 2rem 5.8rem;
+    padding: 2rem;
+    border-radius: 2.5rem;
 }
 
 
