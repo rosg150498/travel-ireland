@@ -113,10 +113,10 @@ h1{
 /* travel ireland about us section */
 
 #about-us-section{
-    height: 360px;
+    height: 420px;
     width: 65%;
     background-color: #015228;
-    margin: 2px 0 0 290px;
+    margin: 5rem 0 0 290px;
     text-align:center;
     border-radius: 35px;
 }
@@ -147,8 +147,11 @@ hr{
     font-family: 'Open Sans', sans-serif;
     color: #FFFFFF;
     font-size: 20px;
-    margin: 0.2rem 2rem 1rem 1rem;
+    margin: 0.2rem 2rem 1rem 4.2rem;
     float: left;
+    height: 5rem;
+    width: 85%;
+    text-align: justify;
 }
 
 
@@ -165,7 +168,7 @@ hr{
 
 
 #tours-icon{
-    margin: 1rem 4rem 0.2rem 30rem;
+    margin: 1rem 4rem 0.2rem 18rem;
 }
 
 
