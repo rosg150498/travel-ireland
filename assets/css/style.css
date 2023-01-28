@@ -202,14 +202,26 @@ hr{
 /* popular tours section */
 
 
+#popular-tours-text{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+
 #popular-tours{
     display: grid;
 
     /* create 3 columns */
     grid-template-columns: repeat(3, 1fr);
+    
 
     /*spacing */
-    gap: 1rem;
+    gap: 4rem;
+
+
+    background-color: #015228;
     
 }
 
@@ -235,7 +247,7 @@ hr{
      margin: 100rem 2rem 4rem 4.5rem;
 
      /* set background and text colour */
-     background-color: #015228;
+
      color: #FFFFFF;
 }
 
