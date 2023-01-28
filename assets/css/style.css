@@ -247,6 +247,11 @@ hr{
 }
 
 
+p{
+    margin-top: 2rem;
+}
+
+
 #titantic-quarter{
     background-color: #015228;
     color: #FFFFFF;
@@ -378,15 +383,17 @@ h3{
     display: grid;
 
     /* create 3 columns */
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: [col1] 33% [col2] 33% [col3] 33%;
+
+
+    /* create 2 rows */
+    grid-template-rows: [row1] 50% [row2] 50%;
+
 
     /*spacing */
-    gap: 1rem;
+    grid-gap: 1rem;
 
     /* create a margin */
     margin: 5rem 2rem 4rem 4.5rem;
 
-    /* set background and text colour */
-    background-color: #015228;
-    color: #FFFFFF;
 }
