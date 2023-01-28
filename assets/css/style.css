@@ -214,6 +214,13 @@ hr{
 }
 
 
+#popular-tours-icon{
+    margin: 1.8rem 1rem 0.2rem 10rem;
+    font-weight: 20rem;
+    color: #ffffff;
+}
+
+
 #popular-tours{
     display: grid;
 
