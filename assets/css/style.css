@@ -369,6 +369,13 @@ p{
 }
 
 
+h4{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1rem;
+    margin-top: 2rem;
+}
+
+
 /* accommodation section */
 
 
@@ -401,4 +408,9 @@ p{
     /* create a margin */
     margin: 5rem 2rem 4rem 4.5rem;
 
+}
+
+
+.hotel{
+    margin-top: 2rem;
 }
