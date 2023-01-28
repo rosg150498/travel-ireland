@@ -304,6 +304,54 @@ p{
 }
 
 
+#phoenix-park-popular-tour{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#titantic-quarter-popular-tour{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#peace-bridge-popular-tour{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#the-dark-hedges-popular-tour{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#rossnowlagh-beach-popular-tour{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#rock-of-cashel-popular-tour{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
 /* transport section */
 
 
@@ -345,6 +393,54 @@ p{
      /* create a margin */
      margin: 4rem 2rem 4rem 0;
 
+}
+
+
+#phoenix-park-transport{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#titanic-quarter-transport{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#peace-bridge-transport{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#the-dark-hedges-transport{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#rossnowlagh-beach-transport{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#rock-of-cashel-transport{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
 }
 
 
@@ -390,10 +486,58 @@ p{
 }
 
 
+#phoenix-park-restaurant{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#titantic-quarter-restaurant{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
 h4{
     font-family: 'Lato', sans-serif;
     font-size: 1.1rem;
     margin-top: 2rem;
+}
+
+
+#peace-bridge-restaurant{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#the-dark-hedges-restaurant{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#rossnowlagh-beach-restaurant{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#rock-of-cashel-restaurant{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
 }
 
 
@@ -434,6 +578,54 @@ h4{
     /* create a margin */
     margin: 5rem 2rem 4rem 4.5rem;
 
+}
+
+
+#phoenix-park-hotel{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#titanic-quarter-hotel{
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#peace-bridge-hotel{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#the-hedges-hotel{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#the-sandhouse-hotel{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+
+#cashel-palace-hotel{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    text-transform: uppercase;
 }
 
 
