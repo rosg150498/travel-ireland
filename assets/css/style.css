@@ -77,8 +77,8 @@ h1{
 
 /* travel ireland home image */
 
-#thome-section{
-    height: 1000px;
+#home-section{
+    height: 58rem;
     width: 100%;
     overflow: hidden;
 }
@@ -123,7 +123,7 @@ h1{
 
 
 #about-us-group{
-    margin: 10px 40px 2px 300px;
+    margin: 1rem 4rem 0.2rem 18rem;
 }
 
 
@@ -162,7 +162,6 @@ hr{
     width: 65%;
     background-color: #015228;
     margin: 5.5rem 0 0 18rem;
-    text-align: center;
     border-radius: 35px;
 }
 
@@ -184,16 +183,19 @@ hr{
     font-family: 'Open Sans', sans-serif;
     color: #FFFFFF;
     font-size: 20px;
-    margin: 0.2rem 2rem 1rem 1rem;
+    margin: 0.2rem 2rem 1rem 4.2rem;
+    width: 85%;
+    text-align: justify;
+}
+
+ 
+#calendar-icon{
+    margin: 1.5rem 4rem 0.2rem 48rem;
+    font-size: 60px;
 }
 
 
 /* popular tours section */
-
-
-#tours-section{
-
-}
 
 
 #popular-tours{
