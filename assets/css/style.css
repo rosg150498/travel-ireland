@@ -237,7 +237,7 @@ hr{
 
 
     /*spacing */
-    grid-gap: 1rem;
+    grid-gap: 0.2rem;
 
 
     
@@ -309,6 +309,12 @@ p{
     color: #FFFFFF;
     font-size: 1.6rem;
     text-transform: uppercase;
+}
+
+
+#wellington-monument{
+    height: 0.5rem;
+    width: 0.5rem;
 }
 
 
@@ -387,11 +393,12 @@ p{
 
 
     /*spacing */
-    grid-gap: 1rem;
+    grid-gap: 0.2rem;
 
 
      /* create a margin */
      margin: 4rem 2rem 4rem 0;
+
 
 }
 
@@ -478,7 +485,7 @@ p{
 
 
     /*spacing */
-    grid-gap: 1rem;
+    grid-gap: 0.2rem;
 
      /* create a margin */
      margin: 5rem 2rem 4rem 4.5rem;
@@ -573,7 +580,7 @@ h4{
 
 
     /*spacing */
-    grid-gap: 1rem;
+    grid-gap: 0.2rem;
 
     /* create a margin */
     margin: 5rem 2rem 4rem 4.5rem;
