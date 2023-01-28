@@ -216,7 +216,7 @@ hr{
 
 #popular-tours-icon{
     margin: 1.8rem 1rem 0.2rem 10rem;
-    font-weight: 20rem;
+    font-size: 3rem;
     color: #ffffff;
 }
 
@@ -320,6 +320,13 @@ p{
 }
 
 
+#transport-icon{
+    margin: 2.2rem 1rem 0.2rem 10rem;
+    font-size: 3rem;
+    color: #FFFFFF;
+}
+
+
 #tour-transport{
     display: grid;
 
@@ -353,6 +360,13 @@ p{
     margin: 15rem 2rem 2rem 5.8rem;
     padding: 2rem;
     border-radius: 2.5rem;
+}
+
+
+#restaurant-icon{
+    margin: 2.2rem 1rem 0.2rem 10rem;
+    font-size: 3rem;
+    color: #ffffff;
 }
 
 
@@ -395,6 +409,11 @@ h4{
     margin: 15rem 2rem 2rem 5.8rem;
     padding: 2rem;
     border-radius: 2.5rem;
+}
+
+
+#accommodation-icon{
+    margin: 2.2rem 1rem 0.2rem 10rem;
 }
 
 
