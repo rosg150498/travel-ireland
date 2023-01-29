@@ -809,7 +809,7 @@ h4{
 
 
 #footer-section{
-    height: 9vh;
+    height: 15vh;
     max-width: 100%;
     background-color: #01311a;
     display: flex;
@@ -819,6 +819,14 @@ h4{
     text-align: center;
     padding: 3rem;
 
+}
+
+
+.footer-text{
+    color: #FFFFFF;
+    margin-left: 4rem;
+    margin-top: 6rem
+    padding: 2rem;
 }
 
 
