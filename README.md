@@ -125,7 +125,7 @@ The aim of this site is to provide information about the advertised company, inc
 
 ### Colours
 
-For the website's appearance I will be employing a colour palette that I developed with some assistance from the website "www.coolors.co." When deciding on the colour scheme for the travel tour website, I considered how each choice would affect the the over feel, impression and presentation of the site. So, I went with a set of contrasting hues that thought would convey my message clearly to my target audience. So, I have decided to go with a dark green shade colour for the navigation bar, background for sections content and footer (#01311A), white colour for the navigation links and main text of the web page (#FFFFFF) to maintain a consistent theme. When a user hover over the navigation links and sections of the page the dark green colour (#01311A) will change to #FF7900. The contact form will have a background colour that will contrast with the navigation bar and footer so I have chosen with a slightly lighter shade of this shade (#015228)
+For the website's appearance I will be employing a colour palette that I developed with some assistance from the website "coolors.co." When deciding on the colour scheme for the travel tour website, I considered how each choice would affect the the over feel, impression and presentation of the site. So, I went with a set of contrasting hues that thought would convey my message clearly to my target audience. So, I have decided to go with a dark green shade colour for the navigation bar, background for sections content and footer (#01311A), white colour for the navigation links and main text of the web page (#FFFFFF) to maintain a consistent theme. When a user hover over the navigation links and sections of the page the dark green colour (#01311A) will change to #FF7900. The contact form will have a background colour that will contrast with the navigation bar and footer so I have chosen with a slightly lighter shade of this shade (#015228)
 
 ### Fonts
 
@@ -193,6 +193,18 @@ While working on my single-page website, I utilised Figma to create wireframe id
 2) CSS
 
 ### Resources
+
+* Figma
+* Coolors.co
+* Google Fonts
+* Font Awesome Library
+* Pixabay
+* Unsplash
+* Pexels
+* W3C HTML Markup Validation Service
+* W3C CSS Validation Service
+* Gitpod
+* WebAIM Contrast Checker
 
 ### Frameworks & Libraries
 
