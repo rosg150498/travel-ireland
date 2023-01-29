@@ -708,6 +708,12 @@ h4{
 }
 
 
+#contact-us-icon{
+    margin: 2rem 1rem 0.2rem 5rem;
+    font-size: 3rem;
+}
+
+
 #contact-us-form{
     background-color: #01522A;
     color: #FFFFFF;
