@@ -380,6 +380,23 @@ p{
 }
 
 
+#popular-tours-images-inspiration{
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    background-color: #015228;
+    font-size: 2.5rem;
+    margin: 10rem 2rem 2rem 2rem;
+    padding: 2rem;
+    border-radius: 2.5rem;
+}
+
+
+#popular-tours-images-icon{
+    margin: 0 1rem 0.2rem 1.8rem;
+    font-size: 3rem;
+}
+
+
 #popular-tour-images{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -395,7 +412,7 @@ p{
     width: 30rem;
     object-fit: cover;
     margin: 2rem 0 0rem 0rem;
-    padding: 19rem 0.1rem 0rem 0.1rem;
+    padding: 2rem 0.1rem 0rem 0.1rem;
 }
 
 
@@ -409,7 +426,7 @@ p{
     background-color: #015228;
     font-size: 2.5rem;
     text-transform: uppercase;
-    margin: 5rem 2rem 2rem 5.8rem;
+    margin: 0 2rem 2rem 5.8rem;
     padding: 2rem;
     border-radius: 2.5rem;
 }
