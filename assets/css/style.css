@@ -686,3 +686,23 @@ h4{
 .hotel{
     margin-top: 2rem;
 }
+
+
+/* contact us section */
+
+
+#contact-us-section{
+    margin: 15rem 2rem 8rem 5.8rem;
+    padding: 2rem;
+}
+
+
+#contact-us{
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    background-color: #01522A;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    padding: 2rem;
+    border-radius: 5.8rem;
+}
