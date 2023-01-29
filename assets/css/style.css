@@ -624,7 +624,8 @@ h4{
     background-color: #015228;
     font-size: 2.5rem;
     text-transform: uppercase;
-    margin: 15rem 2rem 2rem 5.8rem;
+    margin: 8rem 2rem 2rem 2rem;
+    width: 24rem;
     padding: 2rem;
     border-radius: 2.5rem;
 }
@@ -660,6 +661,7 @@ h4{
     color: #FFFFFF;
     font-size: 1.6rem;
     text-transform: uppercase;
+    width: 24rem;
 }
 
 
@@ -825,9 +827,197 @@ h4{
 .footer-text{
     color: #FFFFFF;
     margin-left: 4rem;
-    margin-top: 6rem
+    margin-top: 6rem;
     padding: 2rem;
 }
+
+.responsive-nav{display: none;}
+
+/* MOBILE : max-width: 479px */
+@media only screen and (min-width:0px) and (max-width:479px){
+
+
+    i{
+    margin: 0.1rem 0 2rem 1rem;
+    font-size: 2rem;
+    }
+
+    
+    .about-us{
+    text-align: left;
+    }
+    
+    
+    #about-us-section{
+    width: 85%;
+    }
+
+
+    .tours{
+    text-align: left;
+    margin: 2rem auto;
+    }
+
+
+    #tours-section{
+    width: 86%
+    }
+
+
+    #transport{
+    margin: 2rem;
+    }
+
+
+    #transport-icon {
+    margin: 2.2rem 1rem 0.2rem 9rem;
+    }
+
+
+    .restaurant{    
+    text-align: left;
+    }
+
+
+    #restaurant{
+    margin: 2rem; 
+    font-size: 2rem;
+    }
+
+
+    #restuarants-section{
+    width: 90%;
+    }
+
+
+    .accommodation{
+    text-align: left;
+    }
+
+
+    #accommodation-section{
+    width: 90%;
+    }
+
+
+    #contact-us-section{
+    margin: 2rem; 
+    padding: 0;
+    }
+
+
+    #contact-us-form{
+    text-align: left;
+    }
+
+
+    #contact-us-section{
+    width: 95%;
+    }
+
+
+    #contact-us{
+    border-radius: 3.8rem;
+    text-align: center;
+    font-size: 1.5rem;
+    }
+
+
+    #contact-us-icon {
+    margin: 2rem 1rem 0.2rem 7rem
+    }
+
+
+    #contact-us-form{
+    margin: 1rem 0;
+    padding: 2.5rem;
+    }
+
+
+    .footer-text{
+    margin:0;
+    }
+
+
+    #footer-section{
+    height: 10rem;
+    text-align: left;
+    padding: 1.8rem;
+    display: flex;
+    justify-content: space-around;
+    }
+
+
+    #contact-social-media-links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+
+    #popular-tours{
+    grid-template-columns: [col1] 100%; 
+    margin: 2rem auto;
+    }
+
+
+    #popular-tours div{
+    margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    #tour-transport{
+    grid-template-columns: [col1] 100%; 
+    margin: 2rem auto;
+    }
+
+
+    #tour-transport div{
+    margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    #popular-tour-images{
+    grid-template-rows: none;
+    grid-template-columns: repeat(1, 1fr);
+    }
+    .popular-tour-images{
+    max-width: 100%;
+    padding:1rem 0;
+    }
+
+    #transport-map{
+    height:auto; 
+    min-height: 40rem;
+    object-fit: scale-down;
+    background-size: 100% auto;
+    margin:0;
+    }
+
+
+    #tours-restaurant{
+    grid-template-columns: [col1] 100%;
+    margin: 2rem auto;
+    }
+
+
+    #tours-restaurant div{
+    margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    #tours-accommodation{
+    grid-template-columns: [col1] 100%;
+    margin: 2rem auto;
+    }
+
+
+    #tours-accommodation div{
+    margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    }
 
 
 /* MOBILE : max-width: 479px */
@@ -846,22 +1036,39 @@ i{
     
     
 #about-us-section{
-    width: 60%;
+    width: 85%;
 }
 
 
 .tours{
     text-align: left;
+    margin: 2rem auto;
 }
 
 
 #tours-section{
-    width: 50%
+    width: 86%
+}
+
+
+#transport{
+    margin: 2rem;
+}
+
+
+#transport-icon{
+    margin: 2.2rem 1rem 0.2rem 9rem;
 }
 
 
 .restaurant{
     text-align: left;
+}
+
+
+#restaurant{
+    margin: 2rem;
+    font-size: 2rem;
 }
 
 
@@ -880,12 +1087,13 @@ i{
 }
 
 
+
 #contact-us-form{
     text-align: left;
 }
 
 
-#contact-us-section: {
+#contact-us-section{
     width: 95%;
 }
 
