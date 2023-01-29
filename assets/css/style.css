@@ -734,3 +734,9 @@ h4{
     margin-bottom: 1rem;
     text-decoration: underline;
 }
+
+
+#send-message{
+    height: 6rem;
+    margin: 1rem 0 0 0;
+}
