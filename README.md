@@ -187,10 +187,10 @@ While working on my single-page website, I utilised Figma to create wireframe id
 
 ## Technologies Used
 
-* HTML
-* CSS (External CSS Stylesheet)
-
 ### Languages 
+
+* HTML
+* CSS
 
 ### Resources
 
