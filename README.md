@@ -189,8 +189,8 @@ While working on my single-page website, I utilised Figma to create wireframe id
 
 ### Languages 
 
-* HTML
-* CSS
+1) HTML
+2) CSS
 
 ### Resources
 
