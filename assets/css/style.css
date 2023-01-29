@@ -489,6 +489,15 @@ p{
 }
 
 
+#transport-map{
+    display: block;
+    height: 80rem;
+    width: 100%;
+    background: url(../images/travel-ireland-static-map.png) no-repeat center center;
+    margin: 20rem 20rem 10rem 2rem;
+}
+
+
 /* restauarants section */
 
 
