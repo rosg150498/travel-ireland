@@ -113,17 +113,17 @@ h1{
 /* travel ireland about us section */
 
 #about-us-section{
-    height: 420px;
+    height: auto;
     width: 65%;
     background-color: #015228;
-    margin: 5rem 0 0 290px;
+    margin: 4rem auto;
     text-align:center;
     border-radius: 35px;
 }
 
 
 #about-us-group{
-    margin: 1rem 4rem 0.2rem 18rem;
+    margin: 1.2rem 1rem 0.2rem 0;
 }
 
 
@@ -149,27 +149,32 @@ hr{
     font-family: 'Open Sans', sans-serif;
     color: #FFFFFF;
     font-size: 20px;
-    margin: 0.2rem 2rem 1rem 4.2rem;
-    float: left;
-    height: 5rem;
+    margin: 1rem auto;
+    float: none;
+    height: auto;
     width: 85%;
     text-align: justify;
+}
+.heading-center{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 
 /* travel ireland tour section */
 
 #tours-section {
-    height: 20rem;
+    height: auto;
     width: 65%;
     background-color: #015228;
-    margin: 5.5rem 0 0 18rem;
+    margin: 4rem auto;
     border-radius: 35px;
 }
 
 
 #tours-icon{
-    margin: 1rem 4rem 0.2rem 18rem;
+    margin: 1.2rem 1rem 0.2rem 0;
 }
 
 
@@ -200,17 +205,16 @@ hr{
 
 
 #tours-image{
-    height: 1200px;
     width: 100%;
+    padding-bottom: 1rem;
 }
 
 
 .ireland-sheep-field{
     display: block;
-    height: 40rem;
-    width: 100%;
-    background: url(../images/animal-sheep-mammal.jpg) no-repeat center center;
-    margin: 4rem 20rem 10rem 2rem;
+    height: auto;
+    width: 50%;
+    margin: auto;
 }
 
 
@@ -223,7 +227,7 @@ hr{
     background-color: #015228;
     font-size: 2.5rem;
     text-transform: uppercase;
-    margin: 30rem 2rem 2rem 5.8rem;
+    margin: 2rem 2rem 2rem 2rem;
     padding: 2rem;
     border-radius: 2.5rem;
 }
@@ -248,7 +252,7 @@ hr{
     
 
     /* create a margin */
-    margin: 4em 2rem 4rem 0;
+    margin: 2em 2rem 4rem 0;
 
 
     /*spacing */
@@ -265,7 +269,7 @@ hr{
    color: #FFFFFF;
    padding: 2.5rem;
    border-radius: 3.5rem;
-   margin: 2rem 2rem 2rem 4rem;
+   margin: 2rem 2rem 2rem 2rem;
 }
 
 
@@ -379,10 +383,9 @@ p{
 #popular-tour-images{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(8, 35vw);
+    grid-template-rows: repeat(7, 35vw);
     grid-gap: 1.5rem;
     grid-auto-flow: dense;
-    margin-bottom: -48rem;
 
 }
 
@@ -391,8 +394,8 @@ p{
     height: 30rem;
     width: 30rem;
     object-fit: cover;
-    margin: 2rem 0 20rem 0rem;
-    padding: 19rem 0.1rem 20rem 0.1rem;
+    margin: 2rem 0 0rem 0rem;
+    padding: 19rem 0.1rem 0rem 0.1rem;
 }
 
 
@@ -406,7 +409,7 @@ p{
     background-color: #015228;
     font-size: 2.5rem;
     text-transform: uppercase;
-    margin: 15rem 2rem 2rem 5.8rem;
+    margin: 5rem 2rem 2rem 5.8rem;
     padding: 2rem;
     border-radius: 2.5rem;
 }
@@ -435,7 +438,7 @@ p{
 
 
      /* create a margin */
-     margin: 4rem 2rem 4rem 0;
+     margin: 4rem 2rem 4rem 2rem;
 
 
 }
@@ -494,7 +497,7 @@ p{
     height: 80rem;
     width: 100%;
     background: url(../images/travel-ireland-static-map.png) no-repeat center center;
-    margin: 20rem 20rem 10rem 2rem;
+    margin: 20rem 20rem 0rem 0;
 }
 
 
@@ -717,12 +720,12 @@ h4{
 #contact-us-form{
     background-color: #01522A;
     color: #FFFFFF;
-    height: 30rem;
+    height: auto;
     width: 70%;
     padding: 4rem;
     display: flex;
     flex-direction:column;
-    margin: 10rem 4rem 20rem 9rem;
+    margin: 4rem 4rem 3rem 9rem;
     justify-content: space-between;
 }
 
@@ -736,10 +739,37 @@ h4{
 }
 
 
+#contact-us-form input{
+    padding: 1.5%;
+    margin-bottom: 1%;
+}
+
+
+#contact-message{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
 #send-message{
     height: 6rem;
     margin: 1rem 0 0 0;
 }
+
+
+.button{
+    padding: 2%;
+    margin:1%; 
+    background: #FF7900;
+    color: #FFF;
+    font-size: 20px;
+    border: 0;
+}
+
+
+.button:hover{
+    opacity: 0.6;
+}
+
 
 
 /* footer section */
@@ -757,3 +787,6 @@ h4{
     padding: 3rem;
 
 }
+
+
+
