@@ -803,6 +803,11 @@ h4{
 }
 
 
+.back-to-home:hover{
+    color: #FF7900;
+}
+
+
 #footer-section{
     height: 9vh;
     max-width: 100%;
