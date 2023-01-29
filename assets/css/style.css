@@ -199,6 +199,21 @@ hr{
 }
 
 
+#tours-image{
+    height: 1200px;
+    width: 100%;
+}
+
+
+.ireland-sheep-field{
+    display: block;
+    height: 40rem;
+    width: 100%;
+    background: url(../images/animal-sheep-mammal.jpg) no-repeat center center;
+    margin: 4rem 20rem 10rem 2rem;
+}
+
+
 /* popular tours section */
 
 
@@ -208,7 +223,7 @@ hr{
     background-color: #015228;
     font-size: 2.5rem;
     text-transform: uppercase;
-    margin: 15rem 2rem 2rem 5.8rem;
+    margin: 30rem 2rem 2rem 5.8rem;
     padding: 2rem;
     border-radius: 2.5rem;
 }
@@ -256,6 +271,15 @@ hr{
 
 p{
     margin-top: 2rem;
+}
+
+
+.phoenix-park-animals{
+    display: block;
+    height: 40rem;
+    grid-gap: 0.2rem;
+    grid-template-columns: repeat(autofit, minmax(2rem, 1fr));
+    grid-auto-rows: 10rem;
 }
 
 
@@ -312,12 +336,6 @@ p{
 }
 
 
-#wellington-monument{
-    height: 0.5rem;
-    width: 0.5rem;
-}
-
-
 #titantic-quarter-popular-tour{
     font-family: 'Lato', sans-serif;
     color: #FFFFFF;
@@ -355,6 +373,26 @@ p{
     color: #FFFFFF;
     font-size: 1.6rem;
     text-transform: uppercase;
+}
+
+
+#popular-tour-images{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(8, 35vw);
+    grid-gap: 1.5rem;
+    grid-auto-flow: dense;
+    margin-bottom: -48rem;
+
+}
+
+
+.popular-tour-images{
+    height: 30rem;
+    width: 30rem;
+    object-fit: cover;
+    margin: 2rem 0 20rem 0rem;
+    padding: 19rem 0.1rem 20rem 0.1rem;
 }
 
 
