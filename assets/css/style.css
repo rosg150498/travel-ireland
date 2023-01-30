@@ -837,6 +837,74 @@ h4{
 @media only screen and (min-width:0px) and (max-width:479px){
 
 
+    .responsive-nav{
+        display: block;
+    }
+
+
+    #nav-links{
+        display: none;
+    }
+
+
+    #logo-text {
+        line-height: 1;
+    }
+
+
+    #nav-links{
+        line-height: 1.8;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #01311a;
+    }
+
+
+    #nav-links li{
+        margin: 0.5rem 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    
+    #nav-links li a{
+        width: 100%;
+        text-align: center;
+    }
+
+
+    #logo-text{
+        margin:20px;
+    }
+
+
+    .navigation-bar{
+        height: auto;
+    }
+
+
+    .logo i{
+        margin: 10px;
+    }
+
+
+    i.fa-bars{
+        margin: 10px;
+    }
+
+
+    #navigation-links:hover #nav-links{
+        display: block !important;
+    }
+
+
+    .welcoming-text-bg {
+        height: auto;
+    }
+
+
     i{
     margin: 0.1rem 0 2rem 1rem;
     font-size: 2rem;
