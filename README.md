@@ -290,5 +290,25 @@ I tested my site on W3C HTML CSS Validation Service and found the following erro
 
 ## Deployment
 
+The project was created by pushing relevant commits step by step to each section of the web page and was deployed using GitHub by the following steps.
+
+    *Navigate to the repository on github and click 'Settings'.
+    *Then select 'Pages' on the side navigation.
+    *Select the 'None' dropdown, and then click 'master'.
+    *Click on the 'Save' button.
+    *Now the website is now live on [https://sam-timmins.github.io/T4Tri-triathlon-club/](https://rosg150498.github.io/travel-ireland/)
+    *If any changes were required, they can be done, commited and pushed to GitHub and the changes will be updated.
+
+
 ### References / Sources of Inspiration 
+
+https://visitqatar.com/
+
+https://travel.weroad.co.uk/?gclid=Cj0KCQiA8t2eBhDeARIsAAVEga17wxALO_bIQpHzRSx8Aow_B0s7qkOZVVl2x_0EKAdfmOU_3FZn8EoaAmT2EALw_wcB
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+
+
 
