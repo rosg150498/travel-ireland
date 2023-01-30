@@ -167,23 +167,66 @@ While working on my single-page website, I utilised Figma to create wireframe id
 
 #### Navigation Bar Links with Logo
 
+![travel-ireland-home-section](https://user-images.githubusercontent.com/114010857/215448278-cbc0500a-b363-4bf5-b0b0-03be9d60ae8a.png)
+
+![travel-ireland-nav-links-hover-effect](https://user-images.githubusercontent.com/114010857/215448352-321ee93a-176c-4996-a6d8-e4ffc8768467.png)
+
+
+
+
+
+![travel-ireland-contact-us-section](https://user-images.githubusercontent.com/114010857/215449048-95c8eaa1-edbf-4c2e-9d3c-ee2266127f5e.png)
+
+![travel-ireland-footer-section-contact-us-submit button](https://user-images.githubusercontent.com/114010857/215449097-d7720f84-e511-4355-808c-2197c7985ce0.png)
+
+![travel-ireland-hover-sections-subtle-animation](https://user-images.githubusercontent.com/114010857/215449138-6c838ebe-ac13-44f2-82de-03a7c5ea4665.png)
+
+
 #### Home Landing Page
+
+![travel-ireland-home-section-welcoming-text](https://user-images.githubusercontent.com/114010857/215448400-291f3f49-e84f-40ee-86d2-c7dad407c9d2.png)
 
 #### About Section
 
+![travel-ireland-about-us-section](https://user-images.githubusercontent.com/114010857/215448468-1d4ed150-801a-4c07-90b2-aae4f8bcf835.png)
+
 #### Tours Section 
+
+![travel-ireland-tours-section](https://user-images.githubusercontent.com/114010857/215448551-6aedebc5-97ca-4cb7-9ef9-7f624ddf9aab.png)
+
+![travel-ireland-popular-tours-section](https://user-images.githubusercontent.com/114010857/215448626-6f8f2ce8-2c38-4d7a-b436-f0a3f8ce164f.png)
+
+![travel-ireland-grid-get-inspired-gallery-section](https://user-images.githubusercontent.com/114010857/215448749-37dd44ac-64af-425b-b354-e89f50833726.png)
 
 #### Transport Section
 
+![travel-ireland-transport-section ](https://user-images.githubusercontent.com/114010857/215448818-c0f34fb7-8197-4244-87e9-4f7f68ce706e.png)
+
+![travel-ireland-transport-map](https://user-images.githubusercontent.com/114010857/215448876-ae8e1558-747a-415b-be77-2d8de99d46cf.png)
+
+
 #### Food / Restaurants / Dining Section
+
+![travel-ireland-restaurant-section](https://user-images.githubusercontent.com/114010857/215448939-6e88b3c2-497a-4b53-890c-c514d445cc74.png)
 
 #### Accomodation Section 
 
+![travel-ireland-accommodation-section](https://user-images.githubusercontent.com/114010857/215448994-e90a30b4-c7ab-46bc-803b-e83ae80ad25c.png)
+
 #### Contact Section
+
+![travel-ireland-contact-us-section](https://user-images.githubusercontent.com/114010857/215449048-95c8eaa1-edbf-4c2e-9d3c-ee2266127f5e.png)
 
 #### Footer Section
 
+![travel-ireland-footer-section-contact-us-submit button](https://user-images.githubusercontent.com/114010857/215449097-d7720f84-e511-4355-808c-2197c7985ce0.png)
+
 ### Added Features
+
+![travel-ireland-footer-section-contact-us-submit button](https://user-images.githubusercontent.com/114010857/215449097-d7720f84-e511-4355-808c-2197c7985ce0.png)
+
+
+![travel-ireland-hover-sections-subtle-animation](https://user-images.githubusercontent.com/114010857/215449138-6c838ebe-ac13-44f2-82de-03a7c5ea4665.png)
 
 ## Technologies Used
 
