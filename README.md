@@ -277,7 +277,13 @@ I have added a subtle animation for the sections content so that if the user hov
 * Google Fonts
 * Font Awesome Library
 
-## Testing 
+## Testing & Bugs
+
+
+I tested my site on W3C HTML CSS Validation Service and found the following error that I could resolve, the error hasn't affected the overall final preview of my site however improvements or with further help online this could have been avoided.
+
+![Travel-ireland-testing](https://user-images.githubusercontent.com/114010857/215466184-1b796285-112e-454f-8a82-50583e96de54.png)
+
 
 ## Deployment
 
