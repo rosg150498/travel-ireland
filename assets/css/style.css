@@ -1175,6 +1175,23 @@ i{
 }
 
 
+.footer-text{
+    text-align: center;
+    margin: 0 0 -3.6rem 4.5rem;
+}
+
+
+#footer-section li{
+  list-style: none;
+  padding-left: 2.3rem;
+}
+
+
+#footer-section li a{
+    display: inline-block;
+}
+
+
 /*do same for tours as above*/
 
 #popular-tours{
