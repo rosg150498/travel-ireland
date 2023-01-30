@@ -167,30 +167,39 @@ While working on my single-page website, I utilised Figma to create wireframe id
 
 #### Navigation Bar Links with Logo
 
+This is my home section for the Travel Ireland single page website which is fully responsive across mobile screen devices max-width 448px and 479px. I have also design a responsive layout for tablet size max width 768px. Users can navigate to any section of the page by clicking on one of the navigation links and I have added a hover on effect to inform the users they are navigating over that selected section link and to provide a user-friendly experience. 
+
+I have added hamburger style icon from font awesome to implement in the navigation for mobile screen devices and tablet devices and is hidden in laptop devices. When the user hovers over the hamburger icon the user can select a section of their choice.
+
 ![travel-ireland-home-section](https://user-images.githubusercontent.com/114010857/215448278-cbc0500a-b363-4bf5-b0b0-03be9d60ae8a.png)
 
 ![travel-ireland-nav-links-hover-effect](https://user-images.githubusercontent.com/114010857/215448352-321ee93a-176c-4996-a6d8-e4ffc8768467.png)
 
 
 
-
-
-![travel-ireland-contact-us-section](https://user-images.githubusercontent.com/114010857/215449048-95c8eaa1-edbf-4c2e-9d3c-ee2266127f5e.png)
-
-![travel-ireland-footer-section-contact-us-submit button](https://user-images.githubusercontent.com/114010857/215449097-d7720f84-e511-4355-808c-2197c7985ce0.png)
-
-![travel-ireland-hover-sections-subtle-animation](https://user-images.githubusercontent.com/114010857/215449138-6c838ebe-ac13-44f2-82de-03a7c5ea4665.png)
-
-
 #### Home Landing Page
+
+The home landing page provides a static image with welcoming text directly underneath to avoid the user becoming overwhelmed with too much animations and effects at this stage of the single page site. A welcoming text intrigues the user to the site and sets a first impression before other content is viewed on the page, sustaining an interest for the user.
+
+
+![travel-ireland-home-section](https://user-images.githubusercontent.com/114010857/215448278-cbc0500a-b363-4bf5-b0b0-03be9d60ae8a.png)
+
 
 ![travel-ireland-home-section-welcoming-text](https://user-images.githubusercontent.com/114010857/215448400-291f3f49-e84f-40ee-86d2-c7dad407c9d2.png)
 
 #### About Section
 
+The About Us section includes an introduction to the site with information about what Travel Ireland offers and how we can help users gain a worthwhile opportunity
+
 ![travel-ireland-about-us-section](https://user-images.githubusercontent.com/114010857/215448468-1d4ed150-801a-4c07-90b2-aae4f8bcf835.png)
 
 #### Tours Section 
+
+The Tours section is consistent with the about us section as it help maintain focus and sets a tone for further content. Within the tours section I have added a description of what the tours has to offer for the user and allow the user to maintain interest to scroll down to available tour packages. I have also include a tour centred image to avoid overwhelming of text and add a friendly tone before reaching the popular tours section.
+
+Within the popular tours section itself I have decided to create 3 (horizontal) x 2 (vertical) CSS grid layout as I wanted to ensure I was able to display the content on mobile and tablet devices easily. Having implemented this feature within my web page I also believe the content is very intriguing and easy to read which adds accessibility and user-friendly components to the section.
+
+I have also added a grid inspired gallery section which my main aim was to set user-friendly tone again as the user will stay interested and scroll to other sections of the page. The grid layout again I believe is aesthetically appealing and responsive for all screen devices.
 
 ![travel-ireland-tours-section](https://user-images.githubusercontent.com/114010857/215448551-6aedebc5-97ca-4cb7-9ef9-7f624ddf9aab.png)
 
@@ -200,6 +209,8 @@ While working on my single-page website, I utilised Figma to create wireframe id
 
 #### Transport Section
 
+The transport again has a grid layout for consistency and users can view on all screen devices. I have also included a clear static map to allow users to gain insight to nearby locations to their preferred tour package and plan ahead on arrival to areas they wish to visit. The map is also responsive on all screen devices
+
 ![travel-ireland-transport-section ](https://user-images.githubusercontent.com/114010857/215448818-c0f34fb7-8197-4244-87e9-4f7f68ce706e.png)
 
 ![travel-ireland-transport-map](https://user-images.githubusercontent.com/114010857/215448876-ae8e1558-747a-415b-be77-2d8de99d46cf.png)
@@ -207,24 +218,36 @@ While working on my single-page website, I utilised Figma to create wireframe id
 
 #### Food / Restaurants / Dining Section
 
+The restaurant section has a consistent layout to the transport and popular tour sections to avoid users becoming distracted with new layout and sizes. The resturants includes information on recommended restaurants in the victincity of the selected tour package
+
 ![travel-ireland-restaurant-section](https://user-images.githubusercontent.com/114010857/215448939-6e88b3c2-497a-4b53-890c-c514d445cc74.png)
 
 #### Accomodation Section 
+
+The accommodation section has a similiar layout to the other sections and provides information for the user of recommended accommodation in close proximity to the preferred tour package
 
 ![travel-ireland-accommodation-section](https://user-images.githubusercontent.com/114010857/215448994-e90a30b4-c7ab-46bc-803b-e83ae80ad25c.png)
 
 #### Contact Section
 
+The contact us section allows users to send directly Travel Ireland a message and have implemented a hover on button to provide user interaction that the users information will send when clicked on 
+
 ![travel-ireland-contact-us-section](https://user-images.githubusercontent.com/114010857/215449048-95c8eaa1-edbf-4c2e-9d3c-ee2266127f5e.png)
 
-#### Footer Section
+#### Footer Section#
+
+The footer provides social media links for the user so they can contact us at any social media. When the user clicks on one of the social media icons, a new tab will open providing user interaction and they are aware they have clicked on their prefered social media platform
 
 ![travel-ireland-footer-section-contact-us-submit button](https://user-images.githubusercontent.com/114010857/215449097-d7720f84-e511-4355-808c-2197c7985ce0.png)
 
 ### Added Features
 
+When the user hovers over the submit button the opacity will change to make the user aware they are about to submit their message
+
 ![travel-ireland-footer-section-contact-us-submit button](https://user-images.githubusercontent.com/114010857/215449097-d7720f84-e511-4355-808c-2197c7985ce0.png)
 
+
+I have added a subtle animation for the sections content so that if the user hovers their selected tour package content the background colour will change to #FF7900. I have decided to keep this effect displayed only on laptop devices as it I am aware this effect can be distracting on small screens hover the information is still easy to read, user-friendly and effectively adds impact on larger screen devices.
 
 ![travel-ireland-hover-sections-subtle-animation](https://user-images.githubusercontent.com/114010857/215449138-6c838ebe-ac13-44f2-82de-03a7c5ea4665.png)
 
@@ -250,6 +273,9 @@ While working on my single-page website, I utilised Figma to create wireframe id
 * WebAIM Contrast Checker
 
 ### Frameworks & Libraries
+
+* Google Fonts
+* Font Awesome Library
 
 ## Testing 
 
