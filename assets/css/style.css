@@ -625,7 +625,7 @@ h4{
     font-size: 2.5rem;
     text-transform: uppercase;
     margin: 8rem 2rem 2rem 2rem;
-    width: 24rem;
+    width: 22.5rem;
     padding: 2rem;
     border-radius: 2.5rem;
 }
@@ -1158,6 +1158,7 @@ i{
 #tours-accommodation{
     grid-template-columns: [col1] 100%;
     margin: 2rem auto;
+    width: 30rem;
 }
 
 
