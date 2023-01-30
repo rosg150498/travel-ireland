@@ -234,7 +234,7 @@ hr{
 
 
 #popular-tours-icon{
-    margin: 1.8rem 1rem 0.2rem 10rem;
+    margin: 1.8rem 1rem 0.2rem 4rem;
     font-size: 3rem;
     color: #ffffff;
 }
@@ -399,10 +399,11 @@ p{
 
 #popular-tour-images{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(7, 35vw);
     grid-gap: 1.5rem;
     grid-auto-flow: dense;
+    margin-left: 2.4rem;
 
 }
 
@@ -1192,8 +1193,6 @@ i{
 }
 
 
-/*do same for tours as above*/
-
 #popular-tours{
     grid-template-columns: [col1] 100%; 
     margin: 2rem auto;
@@ -1254,3 +1253,529 @@ i{
 
 }
 
+
+/* MOBILE : max-width: 479px */
+@media only screen and (min-width:0px) and (max-width:448px){
+
+
+    .responsive-nav{
+        display: block;
+    }
+
+
+    #nav-links{
+        display: none;
+    }
+
+
+    #logo-text {
+        line-height: 1;
+    }
+
+
+    #nav-links{
+        line-height: 1.8;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #01311a;
+    }
+
+
+    #nav-links li{
+        margin: 0.5rem 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    
+    #nav-links li a{
+        width: 100%;
+        text-align: center;
+    }
+
+
+    #logo-text{
+        margin:20px;
+    }
+
+
+    .navigation-bar{
+        height: auto;
+    }
+
+
+    .logo i{
+        margin: 10px;
+    }
+
+
+    i.fa-bars{
+        margin: 10px;
+    }
+
+
+    #navigation-links:hover #nav-links{
+        display: block !important;
+    }
+
+
+    .welcoming-text-bg {
+        height: auto;
+    }
+
+
+    i{
+    margin: 0.1rem 0 2rem 1rem;
+    font-size: 2rem;
+    }
+
+    
+    .about-us{
+    text-align: left;
+    }
+    
+    
+    #about-us-section{
+    width: 85%;
+    }
+
+
+    .tours{
+    text-align: left;
+    margin: 2rem auto;
+    }
+
+
+    #tours-section{
+    width: 86%
+    }
+
+
+    #transport{
+    margin: 2rem;
+    }
+
+
+    #transport-icon {
+    margin: 2.2rem 1rem 0.2rem 9rem;
+    }
+
+
+    .restaurant{    
+    text-align: left;
+    }
+
+
+    #restaurant{
+    margin: 2rem; 
+    font-size: 2rem;
+    }
+
+
+    #restuarants-section{
+    width: 90%;
+    }
+
+
+    .accommodation{
+    text-align: left;
+    }
+
+
+    #accommodation-section{
+    width: 90%;
+    }
+
+
+    #contact-us-section{
+    margin: 2rem; 
+    padding: 0;
+    }
+
+
+    #contact-us-form{
+    text-align: left;
+    }
+
+
+    #contact-us-section{
+    width: 95%;
+    }
+
+
+    #contact-us{
+    border-radius: 3.8rem;
+    text-align: center;
+    font-size: 1.5rem;
+    }
+
+
+    #contact-us-icon {
+    margin: 2rem 1rem 0.2rem 7rem
+    }
+
+
+    #contact-us-form{
+    margin: 1rem 0;
+    padding: 2.5rem;
+    }
+
+
+    .footer-text{
+    margin:0;
+    }
+
+
+    #footer-section{
+    height: 10rem;
+    text-align: left;
+    padding: 1.8rem;
+    display: flex;
+    justify-content: space-around;
+    }
+
+
+    #contact-social-media-links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+
+    #popular-tours{
+    grid-template-columns: [col1] 100%; 
+    margin: 2rem auto;
+    }
+
+
+    #popular-tours div{
+    margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    #tour-transport{
+    grid-template-columns: [col1] 100%; 
+    margin: 2rem auto;
+    }
+
+
+    #tour-transport div{
+    margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    #popular-tour-images{
+    grid-template-rows: none;
+    grid-template-columns: repeat(1, 1fr);
+    }
+    .popular-tour-images{
+    max-width: 100%;
+    padding:1rem 0;
+    }
+
+    #transport-map{
+    height:auto; 
+    min-height: 40rem;
+    object-fit: scale-down;
+    background-size: 100% auto;
+    margin:0;
+    }
+
+
+    #tours-restaurant{
+    grid-template-columns: [col1] 100%;
+    margin: 2rem auto;
+    }
+
+
+    #tours-restaurant div{
+    margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    #tours-accommodation{
+    grid-template-columns: [col1] 100%;
+    margin: 2rem auto;
+    }
+
+
+    #tours-accommodation div{
+    margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    }
+
+
+/* MOBILE : max-width: 548px */
+@media only screen and (min-width:0px) and (max-width:548px){
+
+    .responsive-nav{
+        display: block;
+    }
+
+
+    #nav-links{
+        display: none;
+    }
+
+
+    #logo-text {
+        line-height: 1;
+    }
+
+
+    #nav-links{
+        line-height: 1.8;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #01311a;
+    }
+
+
+    #nav-links li{
+        margin: 0.5rem 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    
+    #nav-links li a{
+        width: 100%;
+        text-align: center;
+    }
+
+
+    #logo-text{
+        margin:20px;
+    }
+
+
+    .navigation-bar{
+        height: auto;
+    }
+
+
+    .logo i{
+        margin: 10px;
+    }
+
+
+    i.fa-bars{
+        margin: 10px;
+    }
+
+
+    #navigation-links:hover #nav-links{
+        display: block !important;
+    }
+
+
+    .welcoming-text-bg {
+        height: auto;
+    }
+
+
+    i{
+        margin: 0.1rem 0 2rem 1rem;
+        font-size: 2rem;
+    }
+
+        
+    .about-us{
+        text-align: left;
+    }
+        
+        
+    #about-us-section{
+        width: 85%;
+    }
+
+
+    .tours{
+        text-align: left;
+        margin: 2rem auto;
+    }
+
+
+    #tours-section{
+        width: 86%
+    }
+
+
+    #transport{
+        margin: 2rem;
+    }
+
+
+    #transport-icon{
+        margin: 2.2rem 1rem 0.2rem 4rem;
+    }
+
+
+    #transport-map{
+        height: auto;
+        min-height: 40rem;
+        object-fit: scale-down;
+        background-size: 100% auto;
+        margin: 9rem 20rem 0rem 0;
+    }
+
+
+    .restaurant{
+        text-align: left;
+    }
+
+
+    #restaurant{
+        margin: 2rem;
+        font-size: 2rem;
+    }
+
+
+    #restaurants-section{
+        margin: 12rem 0 0 0;
+    }
+
+
+    .accommodation{
+        text-align: left;
+    }
+
+
+    #accommodation-section{
+        width: 100%;
+    }
+
+
+    #accommodation {
+        font-family: 'Lato', sans-serif;
+        color: #FFFFFF;
+        background-color: #015228;
+        font-size: 2.5rem;
+        text-transform: uppercase;
+        margin: 8rem 2rem 2rem 2rem;
+        width: 26.8rem;
+        padding: 2rem;
+        border-radius: 2.5rem;
+    }
+
+
+    #contact-us-section {
+        margin: 9rem auto;
+        padding: 2rem;
+      }
+
+
+    #contact-us-form{
+        text-align: left;
+    }
+
+
+    #contact-us-form {
+        background-color: #01522A;
+        color: #FFFFFF;
+        height: auto;
+        width: 70%;
+        padding: 4rem;
+        display: flex;
+        flex-direction: column;
+        margin: 4rem auto;
+        justify-content: space-between;
+    }
+
+
+    #contact-us-section{
+        width: 95%;
+    }
+
+
+    #footer-section{
+        height: 10rem;
+        text-align: left;
+        padding: 1.8rem;
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+    .footer-text{
+        text-align: center;
+        margin: 0 0 -3.6rem 4.5rem;
+    }
+
+
+    #footer-section li{
+    list-style: none;
+    padding-left: 2.3rem;
+    }
+
+
+    #footer-section li a{
+        display: inline-block;
+    }
+
+
+    #popular-tours{
+        grid-template-columns: [col1] 100%; 
+        margin: 2rem auto;
+    }
+
+
+    #popular-tours div{
+        margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    #tour-transport{
+        grid-template-columns: [col1] 100%; 
+        margin: 2rem auto;
+    }
+
+
+    #tour-transport div{
+        margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    #popular-tour-images{
+        grid-template-rows: none;
+    }
+
+
+    #transport-map{
+        height:auto; 
+        min-height: 40rem;
+        object-fit: scale-down;
+        background-size: 100% auto;
+    }
+
+
+    #tours-restaurant{
+        grid-template-columns: [col1] 100%;
+        margin: 2rem auto;
+    }
+
+
+    #tours-restaurant div{
+        margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    #tours-accommodation{
+        grid-template-columns: [col1] 100%;
+        margin: 2rem auto;
+        width: 30rem;
+    }
+
+
+    #tours-accommodation div{
+        margin: 2rem 2rem 2rem 2rem;
+    }
+
+
+    }
